@@ -4,7 +4,7 @@ Get shadow for images
 
 # installation
 
-`pm i shadowizard --save`
+`npm i shadowizard --save`
 
 Then...
 
